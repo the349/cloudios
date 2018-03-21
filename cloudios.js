@@ -21,5 +21,10 @@ function cloudios(i) {
         self.element["on" + type] = callback
         return self
     }
+    self.htmlAdd = function (i) {
+        if(!i) {return self.element}
+        if(i) {self.element.innerHTML = self.element.innerHTML + i}
+        return self
+    }
     return self
 }
