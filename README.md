@@ -1,3 +1,4 @@
+![logo](logo.svg)
 # cloudios
 A good JS library
 <br>
