@@ -1,6 +1,5 @@
 /*
 * Cloudios v0.1
-* This is the Pre-releace
 * By The349
 * Goto http://mrjay.oyosite.com/cloudios.html for build and test info
 */
